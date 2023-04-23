@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jxsixh
-- 👀 I’m interested in backend development an UX designs
+- 👀 I’m interested in backend and mobile app development 
 - 🌱 I’m currently studying computer science
 - 💞️ I’m looking to collaborate on anything important
 -
